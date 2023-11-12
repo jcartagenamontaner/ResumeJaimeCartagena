@@ -22,11 +22,11 @@
   }
   
   .gray {
-    background: #454545;
+    background: #4886a5;
   }
   
   .bio {
-    background: #454545;
+    background: #4886a5;
     color: #fff;
   }
   
@@ -38,7 +38,7 @@
   
   .about h3,
   .contact h3 {
-    background-color: #4886a5;
+    background-color: #263746;
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     box-sizing: border-box;
     color: #fff;
